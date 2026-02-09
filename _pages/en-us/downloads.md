@@ -1,6 +1,6 @@
 ---
 page_id: downloads
-layout: page
+layout: about
 permalink: /downloads/
 title: downloads
 ---
