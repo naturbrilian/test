@@ -3,8 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blog
-blog_name: al-folio in english
-description: a simple whitespace theme for academics
+blog_name: Natur Brilian's Blog
+description: Tulisan sampingan pemilik situs web, tutorial dan beberapa project kolaborasi atau terjemahan
 nav: true
 nav_order: 1
 pagination:
