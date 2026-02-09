@@ -157,4 +157,10 @@ Beberapa contoh desain pada halaman ini adalah contoh, dengan berbagai macam uku
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/daa8imc-f5113d3b-dcce-47c4-a8bc-2bac440c9167.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/merry-christsmas-2025.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dj32mka-712615e6-47fb-4aa4-add0-23b75b5e28b1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
