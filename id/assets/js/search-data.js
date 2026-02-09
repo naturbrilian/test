@@ -475,8 +475,8 @@ ninja.data = [{
           description: "Contoh desain untuk penggunaan pribadi",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-vector",
+          title: 'Vector',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/5_project/";
@@ -500,16 +500,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/9_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/test/id/projects/5_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
-          section: "Projects",handler: () => {
-              window.location.href = "/test/id/projects/5_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',

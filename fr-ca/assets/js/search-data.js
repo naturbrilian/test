@@ -489,8 +489,8 @@ ninja.data = [{
           description: "example design for private project",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-vector",
+          title: 'Vector',
           description: "a project with a background image",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/5_project/";
@@ -514,16 +514,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/9_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "projets",handler: () => {
-              window.location.href = "/test/fr-ca/projects/5_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
-          section: "projets",handler: () => {
-              window.location.href = "/test/fr-ca/projects/5_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
