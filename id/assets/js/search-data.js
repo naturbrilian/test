@@ -472,7 +472,7 @@ ninja.data = [{
               window.location.href = "/test/id/projects/3_project/";
             },},{id: "projects-design",
           title: 'design',
-          description: "example design for private project",
+          description: "Contoh desain untuk penggunaan pribadi",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/4_project/";
             },},{id: "projects-project-5",
