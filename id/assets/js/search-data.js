@@ -14,15 +14,15 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-tentang",
+    title: "tentang",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/test/id/";
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "a simple whitespace theme for academics",
+          description: "Tulisan sampingan pemilik situs web, tutorial dan beberapa project kolaborasi atau terjemahan",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/id/blog/";
@@ -50,21 +50,14 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Saya seorang desainer grafis dan video editor yang juga mengetahui seputar teknologi informasi, khususnya komputer, sistem operasi dan lain-lain. Saya bekerja di Kediri TV sebagai video editor dan juga sebagai kontributor di Yuramedia sebagai desainer grafis.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/id/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/test/id/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-tentang",
+          title: "tentang",
+          description: "tentangku",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/id/people/";

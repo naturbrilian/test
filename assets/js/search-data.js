@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "a simple whitespace theme for academics",
+          description: "Website owner side posts, tutorial and some collaboration or translation projects",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/blog/";
@@ -50,21 +50,14 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "I am a graphic designer and video editor who also knows about information technology, especially computers, operating systems, and others. I work at Kediri TV as a video editor and also as a contributor at Yuramedia as a graphic designer.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/test/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-about",
+          title: "about",
+          description: "about me",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/people/";
@@ -82,6 +75,20 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/test/blog/";
+              },
+            },{id: "dropdown-downloads",
+              title: "downloads",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/test";
+              },
+            },{id: "dropdown-",
+              title: "",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/test/downloads/";
               },
             },{id: "post-a-post-with-plotly-js",
         
