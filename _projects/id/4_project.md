@@ -1,9 +1,9 @@
 ---
 page_id: project_4
 layout: page
-title: design
+title: Desain
 description: Contoh desain untuk penggunaan pribadi
-img: assets/img/3.jpg
+img: assets/img/thumbnail-design.jpg
 importance: 3
 category: fun
 ---

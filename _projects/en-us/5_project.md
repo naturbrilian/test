@@ -2,8 +2,8 @@
 page_id: project_5
 layout: page
 title: Vector
-description: a project with a background image
-img: assets/img/1.jpg
+description: Vector galleries that have previously been uploaded to deviantart or pixiv
+img: assets/img/thumbnail-vektor.jpg
 importance: 3
 category: fun
 ---
@@ -178,6 +178,18 @@ The vector I worked on previously. The images in this gallery are not HD, so ple
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-59.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-62.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="caption">
     Vector with 2 character poses
 </div>
@@ -206,5 +218,17 @@ The vector I worked on previously. The images in this gallery are not HD, so ple
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vector-82.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-79.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

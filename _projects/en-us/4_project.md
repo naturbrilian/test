@@ -1,9 +1,9 @@
 ---
 page_id: project_4
 layout: page
-title: design
+title: Design
 description: example design for private project
-img: assets/img/3.jpg
+img: assets/img/thumbnail-design.jpg
 importance: 3
 category: fun
 ---

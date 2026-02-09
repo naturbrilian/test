@@ -2,8 +2,8 @@
 page_id: project_5
 layout: page
 title: Vector
-description: a project with a background image
-img: assets/img/1.jpg
+description: Galeri vektor yang sebelumnya pernah diunggah di deviantart ataupun pixiv
+img: assets/img/thumbnail-vektor.jpg
 importance: 3
 category: fun
 ---
@@ -175,6 +175,18 @@ Vektor yang saya kerjakan sebelumnya. Gambar-gambar di galeri ini tidak beresolu
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vector-49.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-59.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-62.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vector-19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
