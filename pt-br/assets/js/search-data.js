@@ -482,9 +482,9 @@ ninja.data = [{
           description: "outro sem imagem",
           section: "Projetos",handler: () => {
               window.location.href = "/test/pt-br/projects/4_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
           section: "Projetos",handler: () => {
               window.location.href = "/test/pt-br/projects/5_project/";
             },},{id: "projects-projeto-6",
@@ -507,6 +507,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projetos",handler: () => {
               window.location.href = "/test/pt-br/projects/9_project/";
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Projetos",handler: () => {
+              window.location.href = "/test/pt-br/projects/5_project/";
+            },},{id: "projects-projeto-5",
+          title: 'projeto 5',
+          description: "um projeto com imagem de fundo",
+          section: "Projetos",handler: () => {
+              window.location.href = "/test/pt-br/projects/5_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
