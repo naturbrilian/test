@@ -508,6 +508,13 @@ ninja.data = [{
           section: "Projetos",handler: () => {
               window.location.href = "/test/pt-br/projects/9_project/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://bsky.app/profile/me.naturbrilian.dpdns.org", "_blank");
+        },
+      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Redes sociais',
@@ -519,14 +526,56 @@ ninja.data = [{
         title: 'Enviar um email',
         section: 'Redes sociais',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%67%69%6E%67%61%6C%69%62%61%64%65%69%64%61%72%61@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-facebook',
+        title: 'Facebook',
         section: 'Redes sociais',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://facebook.com/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://github.com/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-gitlab',
+        title: 'GitLab',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://gitlab.com/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://instagram.com/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-lastfm',
+        title: 'Last FM',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://www.last.fm/user/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-mastodon',
+        title: 'Mastodon',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://https://mastodon.social/@naturbrilian", "_blank");
         },
       },{
         id: 'social-rss',
@@ -536,11 +585,25 @@ ninja.data = [{
           window.open("/test/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-spotify',
+        title: 'Spotify',
         section: 'Redes sociais',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://open.spotify.com/user/gingalibadeidara", "_blank");
+        },
+      },{
+        id: 'social-telegram',
+        title: 'telegram',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://telegram.me/naturbrilian", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://twitter.com/naturbrilian", "_blank");
         },
       },{
         id: 'social-custom_social',
