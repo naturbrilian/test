@@ -470,14 +470,14 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/3_project/";
-            },},{id: "projects-design",
-          title: 'design',
+            },},{id: "projects-desain",
+          title: 'Desain',
           description: "Contoh desain untuk penggunaan pribadi",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/4_project/";
             },},{id: "projects-vector",
           title: 'Vector',
-          description: "a project with a background image",
+          description: "Galeri vektor yang sebelumnya pernah diunggah di deviantart ataupun pixiv",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/5_project/";
             },},{id: "projects-project-6",

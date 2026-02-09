@@ -485,13 +485,13 @@ ninja.data = [{
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/3_project/";
             },},{id: "projects-design",
-          title: 'design',
+          title: 'Design',
           description: "example design for private project",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/4_project/";
             },},{id: "projects-vector",
           title: 'Vector',
-          description: "a project with a background image",
+          description: "Vector galleries that have previously been uploaded to deviantart or pixiv",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/5_project/";
             },},{id: "projects-project-6",
