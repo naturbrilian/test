@@ -664,6 +664,10 @@ jekyll_get_json:
     json: assets/json/resume_en-us.json # it can also be an url
   - data: resume_pt-br
     json: assets/json/resume_pt-br.json # it can also be an url
+  - data: resume_id
+    json: assets/json/resume_id.json # it can also be an url 
+  - data: resume_ja-jp
+    json: assets/json/resume_ja-jp.json # it can also be an url
 
 jsonresume:
   - basics
