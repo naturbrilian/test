@@ -88,13 +88,6 @@ ninja.data = [{
               description: "",
               section: "déroulant",
               handler: () => {
-                window.location.href = "/test/fr-ca";
-              },
-            },{id: "dropdown-",
-              title: "",
-              description: "",
-              section: "déroulant",
-              handler: () => {
                 window.location.href = "/test/fr-ca/downloads/";
               },
             },{id: "post-just-a-moment",
