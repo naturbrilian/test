@@ -1,7 +1,7 @@
 ---
 page_id: downloads
 layout: profiles
-permalink: /downloads/
-title: downloads
+permalink: /unduhan/
+title: unduhan
 nav: true
 ---
