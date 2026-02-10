@@ -132,19 +132,19 @@ external_sources:
         published_date: 2025-01-31
     categories: [blogs]
     tags: [blogs]
- -  name: Nectarinia99 Blog | Guci Mind
+  - name: Nectarinia99 Blog | Guci's Mind  # ✅ CORRECT: 2 space indent
     posts:
       - url: https://nectarinia99.wordpress.com/2025/01/18/keabadian-atau-masa-depan-yang-kauharapkan/
         published_date: 2025-01-18
     categories: [blogs]
     tags: [blogs]
- -  name: Nectarinia99 Blog | Guci Mind
+  - name: Nectarinia99 Blog | Guci's Mind  # ✅ CORRECT: 2 space indent
     posts:
       - url: https://nectarinia99.wordpress.com/2024/01/16/suka-suka-bahasa-indonesia/
         published_date: 2024-01-16
     categories: [blogs]
     tags: [blogs]
- -  name: Rena Translations | Menerjemah Sesuka Hati
+  - name: Rena Translations | Menerjemah Sesuka Hati  # ✅ CORRECT: 2 space indent
     posts:
       - url: https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html
         published_date: 2021-03-07
