@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Liba Natur Brilian",
+    "label": "Editor & Desainer Grafis",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "liba.natur.brilian@gmail.com",
+    "phone": "(62) 896865736",
+    "url": "https://naturbrilian.github.io/",
+    "summary": "Seorang editor dan desainer grafis yang juga tertarik pada penerjemahan konten digital & masih banyak lagi.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Balowerti II",
+      "postalCode": "ID 64129",
+      "city": "Kediri",
+      "countryCode": "ID",
+      "region": "East Java"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "naturbrilian",
+        "url": "https://twitter.com/naturbrilian"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Yuramedia Link",
+      "position": "Desainer Grafis",
+      "url": "https://yuramedia.com",
+      "startDate": "2025-06-20",
+      "endDate": "Now",
+      "summary": "Membuat desain untuk postingan media sosial.",
+      "highlights": ["Part Time"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Penerjemah Lepas",
+      "location": "Kediri, Indonesia",
+      "position": "Translator",
+      "url": "https://naturbrilian.github.io/",
+      "startDate": "2016-04-01",
+      "endDate": "Now",
+      "summary": "Menerjemahkan berbagai konten untuk website, aplikasi, dan lainnya.",
+      "highlights": ["Kontributor"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "SMK TI PELITA NUSANTARA KEDIRI",
+      "location": "Kediri, Indonesia",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Multimedia",
+      "studyType": "Student",
+      "startDate": "2014-04",
+      "endDate": "2017-05",
+      "score": "9",
+      "courses": ["Mempelajari dasar-dasar video editing, desain, dan pemrograman"]
     }
   ],
   "awards": [
@@ -140,11 +140,11 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
+        "Pelokalan Bahasa Inggris ke Bahasa Indonesia",
+        "Desain Grafis",
+        "Blogging",
+        "Video Editing",
+        "Word",
         "Quantum Teleportation"
       ]
     }
@@ -166,35 +166,13 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Menulis Artikel",
+        "Cloud Computing",
+        "Musik",
+        "Multimedia",
+        "Entertainment",
+        "Gameing"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
