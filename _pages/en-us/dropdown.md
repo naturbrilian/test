@@ -13,5 +13,5 @@ children:
     permalink: /blog/
   - title: divider
   - title: downloads
-  - permalink: /downloads/
+    permalink: /downloads/
 ---
