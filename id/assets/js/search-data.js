@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/test/id/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-downloads",
+          title: "downloads",
+          description: "",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/test/id/downloads/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "Tulisan sampingan pemilik situs web, tutorial dan beberapa project kolaborasi atau terjemahan",
           section: "Navigation menu",
@@ -510,9 +517,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-video-amp-commercial",
+          title: 'Video &amp;amp; Commercial',
+          description: "Galeri Video dan Komersial",
           section: "Projects",handler: () => {
               window.location.href = "/test/id/projects/1_project/";
             },},{id: "projects-project-2",

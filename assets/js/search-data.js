@@ -20,7 +20,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/test/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-downloads",
+          title: "downloads",
+          description: "",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/test/downloads/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "Website owner side posts, tutorial and some collaboration or translation projects",
           section: "Navigation menu",
@@ -524,9 +531,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-video-amp-commercial",
+          title: 'Video &amp;amp; Commercial',
+          description: "Video and Commercial Works Gallery",
           section: "Projects",handler: () => {
               window.location.href = "/test/projects/1_project/";
             },},{id: "projects-project-2",
