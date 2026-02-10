@@ -90,7 +90,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/test/downloads/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-just-a-moment",
+        
+          title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ufal.my.id/2025/06/11/taiga/", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -99,6 +110,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2025/plotly/";
+          
+        },
+      },{id: "post-roadmap-2025-aimp-s-blog",
+        
+          title: 'Roadmap 2025 | AIMP’s Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.aimp.ru/blogs/?p=1498&language=en", "_blank");
+          
+        },
+      },{id: "post-keabadian-atau-masa-depan-yang-kauharapkan-guci-39-s-mind",
+        
+          title: 'Keabadian (atau, Masa Depan) yang Kauharapkan | Guci&#39;s Mind <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Entah gimana, dari aku yang awalnya tertarik sama Owarinaki Natsu Towa Naru Shirabe, malah beralih ke nonton sedikit Muv-Luv Alternative (yang jelek banget), lalu malah berakhir nonton Kimi ga Nozomu Eien. Waktu bocah esema aku pernah membaca sinopsisnya yang mana “Protagonis pacaran sama Heroine 1 suatu hari Heroine 1 kecelakaan terus koma terus Protagonis pacaran…",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://nectarinia99.wordpress.com/2025/01/18/keabadian-atau-masa-depan-yang-kauharapkan/", "_blank");
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -110,17 +143,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -233,6 +255,17 @@ ninja.data = [{
             window.location.href = "/test/blog/2024/chartjs/";
           
         },
+      },{id: "post-suka-suka-bahasa-indonesia-guci-39-s-mind",
+        
+          title: 'Suka-suka Bahasa Indonesia | Guci&#39;s Mind <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Ini bahasan yang agak jarang di perbindoan, tapi sering diucapkan orang-orang sampai mungkin ga sadar, yaitu penggunaan kata &quot;suka&quot;. Jadi aku tulis ini biar kita sama-sama &quot;oh iya juga ya&quot; bareng.Bahasa Indonesia, dengan segala keterbatasan jumlah katanya, memiliki salah satu keunikan dalam hal Pembicara - Pendengar yang saling memahami. Umumnya, &quot;suka&quot; memiliki makna KESENANGAN Subjek…",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://nectarinia99.wordpress.com/2024/01/16/suka-suka-bahasa-indonesia/", "_blank");
+          
+        },
       },{id: "post-a-post-with-tikzjax",
         
           title: "a post with TikZJax",
@@ -343,17 +376,6 @@ ninja.data = [{
             window.location.href = "/test/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -363,6 +385,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/assets/pdf/en-us/example_pdf.pdf";
+          
+        },
+      },{id: "post-light-novel-moriarty-the-patriot-volume-1-3-bahasa-indonesia",
+        
+          title: 'Light Novel Moriarty The Patriot Volume 1-3 Bahasa Indonesia <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "JUST TO ANSWER YOUR CURIOSITY, ESPECIALLY ABOUT ANIME :)",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.shirayuki-chan.my.id/2021/08/light-novel-moriarty-patriot-volume-1-3.html", "_blank");
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -376,6 +409,17 @@ ninja.data = [{
             window.location.href = "/test/blog/2021/diagrams/";
           
         },
+      },{id: "post-novel-the-failure-alchemist-of-the-royal-capital-my-job-is-a-failure-so-i-ll-manage-my-store-carefreely-bahasa-indonesia-rena-translations",
+        
+          title: '[Novel] The Failure Alchemist of the Royal Capital ~My job is a failure... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html", "_blank");
+          
+        },
       },{id: "post-a-post-with-twitter",
         
           title: "a post with twitter",
@@ -385,6 +429,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2020/twitter/";
+          
+        },
+      },{id: "post-my-absurd-imaginations-the-big-five-team-of-miniature-program",
+        
+          title: '~MY ABSURD IMAGINATIONS~: THE BIG FIVE TEAM OF MINIATURE PROGRAM <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "HALOOOOO! APA KABAR KALIAN?! KALIAN PASTI MERINDUKANKU~ //TAMPAR",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://yummyulia.blogspot.com/2019/03/the-big-five-team-of-miniature-program.html", "_blank");
           
         },
       },{id: "post-a-distill-style-blog-post",
