@@ -22,6 +22,11 @@
       year: 2011 - 2014
       description:
         - Siswa.
+    - title: Siswa
+      institution: SDN Ngadirejo 3, Kediri, Jawa Timur, Indonesia
+      year: 2004 - 2011
+      description:
+        - Siswa.
 
 - title: Pengalaman Kerja
   type: time_table
@@ -40,10 +45,9 @@
       year: 2025 - Now
       description:
         - Membuat desain grafis untuk iklan dan konten media sosial.
-
-- title: The Java Post ID
-  type: time_table
-  contents:
     - title: Video Editor
-      year: 2023-now
-      description: Video Editor dan Admin Situs Web
+      institution: The Java Post ID
+      year: 2025 - Now
+      description:
+        - Membuat video promosi untuk berbagai acara.
+        - Membuat video untuk publikasi konten di situs web.
