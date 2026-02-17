@@ -464,6 +464,28 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2015/math/";
           
         },
+      },{id: "post-jenis-dan-ciri-ciri-kamera",
+        
+          title: "Jenis Dan Ciri Ciri Kamera",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2015/jenis-dan-ciri-ciri-kamera/";
+          
+        },
+      },{id: "post-definisi-fotografi",
+        
+          title: "Definisi Fotografi",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2015/definisi-fotografi/";
+          
+        },
       },{id: "post-a-post-with-code",
         
           title: "a post with code",
@@ -484,6 +506,39 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/fr-ca/blog/2015/images/";
+          
+        },
+      },{id: "post-show-by-rock-episode-1-subtitle-indonesia",
+        
+          title: "Show by Rock!! Episode 1 Subtitle Indonesia",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2015/show-by-rock-episode-1-subtitle-indonesia/";
+          
+        },
+      },{id: "post-ost-anime-spring-2015",
+        
+          title: "OST Anime Spring 2015",
+        
+        description: "Tautan yang semula menuju ke tautan unduhan yang sudah mati, diganti menuju ke Spotify atau YouTube jika tersedia",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2015/ost-anime-spring/";
+          
+        },
+      },{id: "post-nisekoi-season-2-episode-01-subtitle-indonesia",
+        
+          title: "Nisekoi Season 2 Episode 01 Subtitle Indonesia",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2015/nisekoi-season-2-episode-01-subtitle-indonesia/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
