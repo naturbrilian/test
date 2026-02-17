@@ -420,6 +420,28 @@ ninja.data = [{
             window.location.href = "/test/blog/2020/twitter/";
           
         },
+      },{id: "post-saya-kembali-dengan-sebuah-eksperimen-baru",
+        
+          title: "Saya kembali dengan sebuah eksperimen baru",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2020/saya-kembali-dengan-sebuah-eksperimen-baru/";
+          
+        },
+      },{id: "post-sempat-kepikiran-kalau-ingin-menghentikan-aktivitas-dalam-pembuatan-proyek-vektor",
+        
+          title: "Sempat kepikiran kalau ingin menghentikan aktivitas dalam pembuatan proyek vektor",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2020/sempat-kepikiran-kalau-ingin-menghentikan-aktivitas-dalam-pembuatan-proyek-vektor/";
+          
+        },
       },{id: "post-my-absurd-imaginations-the-big-five-team-of-miniature-program",
         
           title: '~MY ABSURD IMAGINATIONS~: THE BIG FIVE TEAM OF MINIATURE PROGRAM <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -429,6 +451,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://yummyulia.blogspot.com/2019/03/the-big-five-team-of-miniature-program.html", "_blank");
+          
+        },
+      },{id: "post-proyek-komik-telah-selesai-go-for-dream",
+        
+          title: "Proyek Komik Telah Selesai (Go For Dream)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2018/proyek-komik-telah-selesai-go-for-dream/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -462,6 +495,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2015/math/";
+          
+        },
+      },{id: "post-download-naruto-shippuden-ultimate-ninja-storm-revolution-for-pc",
+        
+          title: "DOWNLOAD NARUTO SHIPPUDEN ULTIMATE NINJA STORM REVOLUTION FOR PC",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2015/download-naruto-shippuden-ultimate-ninja-storm-revolution-for-pc/";
+          
+        },
+      },{id: "post-pengertian-seorang-desainer",
+        
+          title: "Pengertian Seorang Desainer",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2015/pengertian-seorang-desainer/";
           
         },
       },{id: "post-jenis-dan-ciri-ciri-kamera",
