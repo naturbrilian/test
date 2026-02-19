@@ -409,6 +409,61 @@ ninja.data = [{
             window.open("https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html", "_blank");
           
         },
+      },{id: "post-pengumuman-sebuah-proyek-baru",
+        
+          title: "Pengumuman Sebuah Proyek Baru",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2021/pengumuman-sebuah-proyek-baru/";
+          
+        },
+      },{id: "post-apa-harapanmu-untuk-tahun-2021",
+        
+          title: "Apa harapanmu untuk tahun 2021?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2020/apa-harapanmu-untuk-tahun-2021/";
+          
+        },
+      },{id: "post-apa-saja-yang-terjadi-selama-1-tahun-ini",
+        
+          title: "Apa saja yang terjadi selama 1 tahun ini",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2020/apa-saja-yang-terjadi-selama-1-tahun-ini/";
+          
+        },
+      },{id: "post-tulisan-pertama-di-tahun-2020",
+        
+          title: "Tulisan pertama di tahun 2020",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2020/tulisan-pertama-di-tahun-2020/";
+          
+        },
+      },{id: "post-proyek-lama-tiba-tiba-di-angkat-kembali",
+        
+          title: "Proyek lama tiba-tiba di angkat kembali",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2020/proyek-lama-tiba-tiba-di-angkat-kembali/";
+          
+        },
       },{id: "post-a-post-with-twitter",
         
           title: "a post with twitter",
@@ -418,6 +473,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/ja-jp/blog/2020/twitter/";
+          
+        },
+      },{id: "post-membuat-tema-girls-frontline-tetapi-untuk-browser-chrome",
+        
+          title: "Membuat tema Girls’ Frontline tetapi untuk browser Chrome",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2020/membuat-tema-girls-frontline-tetapi-untuk-browser-chrome/";
           
         },
       },{id: "post-saya-kembali-dengan-sebuah-eksperimen-baru",
