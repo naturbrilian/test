@@ -653,8 +653,8 @@ ninja.data = [{
           description: "a project with no image",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-commision",
+          title: 'Commision',
           description: "with background image",
           section: "projets",handler: () => {
               window.location.href = "/test/fr-ca/projects/7_project/";
