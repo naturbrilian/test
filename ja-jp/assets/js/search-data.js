@@ -805,6 +805,105 @@ ninja.data = [{
             window.location.href = "/test/ja-jp/blog/2015/formatting-and-links/";
           
         },
+      },{id: "post-fairy-tail-episode-200-subtitle-indonesia",
+        
+          title: "Fairy Tail Episode 200 Subtitle Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/fairy-tail-episode-200-sub-indo/";
+          
+        },
+      },{id: "post-naruto-shippuden-eps-379-sub-indonesia",
+        
+          title: "Naruto Shippuden Eps 379 Sub Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/naruto-shippuden-eps-379-sub-indonesia/";
+          
+        },
+      },{id: "post-akame-ga-kill-episode-10-subtitle-indonesia",
+        
+          title: "Akame ga kill Episode 10 Subtitle Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/Akame-ga-kill-Episode-10-Subtitle-Indonesia/";
+          
+        },
+      },{id: "post-naruto-shippuden-eps-37-sub-indonesia",
+        
+          title: "Naruto Shippuden Eps 37- Sub Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/naruto-shippuden-episode-370-subtitle-indonesia/";
+          
+        },
+      },{id: "post-naruto-shippuden-episode-369-subtitle-indonesia",
+        
+          title: "Naruto Shippuden Episode 369 Subtitle Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/naruto-shippuden-episode-369-subtitle-indonesia/";
+          
+        },
+      },{id: "post-aoyama-thelma-track-02",
+        
+          title: "aoyama thelma track 02",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/aoyama-thelma-track-02/";
+          
+        },
+      },{id: "post-aoyama-thelma-kaeru-basho",
+        
+          title: "aoyama thelma - kaeru basho",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/aoyama-thelma-kaeru-basho/";
+          
+        },
+      },{id: "post-one-piece-episode-651-subtitle-indonesia",
+        
+          title: "One Piece Episode 651 Subtitle Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/one-piece-episode-651-subtitle-indonesia/";
+          
+        },
+      },{id: "post-keroro-2014-episode-5-subtitle-indonesia",
+        
+          title: "Keroro (2014) Episode 5 Subtitle Indonesia",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2014/keroro-2014-episode-5-subtitle-indonesia/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
