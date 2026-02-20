@@ -4,7 +4,7 @@ title: Apa harapanmu untuk tahun 2021?
 date: 2020-12-28 21:18:16
 tags: blogging, custom themes
 categories: blogging
-thumbnail: assets/img/image-33.png
+thumbnail: assets/img/image-36-1920x943.png
 ---
 
 Mungkin seperti judul di artikel ini, apa yang kalian harapkan di tahun 2021, banyak orang berharap ada yang menginginkan perangkat baru untuk keperluan editing, ingin punya jodoh dan lain sebagainya. Oh ya, sama seperti penulis artikel di blog ini & saya juga berharap di tahun depan tidak akan ada masalah yang menimpa saya, seperti peristiwa yang sungguh bodoh bagiku, seperti peretasan akun dan lain sebagainya. Ngomong ngomong ini juga artikel terakhir untuk tahun 2020, sekaligus artikel tambahan, kemarin saya juga sempat untuk membuat tema lain, dari salah satu mobile game tidak lain adalah dari Sword Art Online Alicization dengan karakter Eydis Synthesis.
