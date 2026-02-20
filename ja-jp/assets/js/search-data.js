@@ -365,6 +365,28 @@ ninja.data = [{
             window.location.href = "/test/ja-jp/blog/2023/table-of-contents/";
           
         },
+      },{id: "post-google-chrome-themes-shiroko-blue-archive",
+        
+          title: "Google Chrome Themes Shiroko Blue Archive",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2023/google-chrome-themes-shiroko-blue-archive/";
+          
+        },
+      },{id: "post-apakah-tema-windows-10-masih-bisa-digunakan-saat-kamu-mengunakan-windows-11",
+        
+          title: "Apakah Tema Windows 10 masih bisa digunakan saat kamu mengunakan Windows 11?",
+        
+        description: "cara menerapkan tema windows 10 ke 11",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2023/apakah-tema-windows-10-masih-bisa-digunakan-saat-kamu-mengunakan-windows-11/";
+          
+        },
       },{id: "post-a-post-with-giscus-comments",
         
           title: "a post with giscus comments",
@@ -374,6 +396,50 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/ja-jp/blog/2022/giscus-comments/";
+          
+        },
+      },{id: "post-nanako-music-player-atau-nanako-skins",
+        
+          title: "Nanako Music Player atau Nanako Skins",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2022/nanako-music-player-concept-a-k-a-nanako-skins/";
+          
+        },
+      },{id: "post-keluh-kesah-dan-penyesalan-soal-hubungan-pertemanan",
+        
+          title: "Keluh kesah dan penyesalan soal hubungan pertemanan",
+        
+        description: "cuma self rant aja :(",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2022/keluh-kesah-dan-penyesalan-soal-hubungan-pertemanan/";
+          
+        },
+      },{id: "post-memulai-dari-awal",
+        
+          title: "Memulai dari awal",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2022/memulai-dari-awal/";
+          
+        },
+      },{id: "post-mahjong-soul-on-desktop",
+        
+          title: "Mahjong Soul on Desktop",
+        
+        description: "cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/ja-jp/blog/2022/mahjong-soul-on-desktop/";
           
         },
       },{id: "post-anniversary-proyek-gingalibadeidara-works-yang-ke-8",
@@ -594,17 +660,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/ja-jp/blog/2018/proyek-komik-telah-selesai-go-for-dream/";
-          
-        },
-      },{id: "post-mahjong-soul-on-desktop",
-        
-          title: "Mahjong Soul on Desktop",
-        
-        description: "cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/test/ja-jp/blog/2018/mahjong-soul-on-desktop/";
           
         },
       },{id: "post-a-distill-style-blog-post",
