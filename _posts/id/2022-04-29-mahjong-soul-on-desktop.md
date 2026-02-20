@@ -2,9 +2,9 @@
 layout: distill
 title: Mahjong Soul on Desktop
 description: cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)
-tags: distill formatting
+tags: tutorial
 giscus_comments: true
-date: 2018-12-22
+date: 2022-04-29
 featured: true
 mermaid:
   enabled: true
