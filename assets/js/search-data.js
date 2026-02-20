@@ -90,7 +90,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/test/downloads/";
               },
-            },{id: "post-just-a-moment",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2026/2021-03-23-artikel-spesial-kustomisasi-tema-untuk-browser/";
+          
+        },
+      },{id: "post-just-a-moment",
         
           title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -365,6 +376,28 @@ ninja.data = [{
             window.location.href = "/test/blog/2022/giscus-comments/";
           
         },
+      },{id: "post-anniversary-proyek-gingalibadeidara-works-yang-ke-8",
+        
+          title: "Anniversary Proyek Gingalibadeidara Works yang ke 8",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2022/anniversary-proyek-gingalibadeidara-works-yang-ke-8/";
+          
+        },
+      },{id: "post-2022-dan-tutorial-seret-tarik-ke-bilah-tugas",
+        
+          title: "2022 dan Tutorial seret tarik ke bilah tugas",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2022/idk/";
+          
+        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -374,6 +407,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/assets/pdf/en-us/example_pdf.pdf";
+          
+        },
+      },{id: "post-post-pertama-di-tahun-2022",
+        
+          title: "Post pertama di tahun 2022",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2022/post-pertama-di-tahun-2022/";
           
         },
       },{id: "post-light-novel-moriarty-the-patriot-volume-1-3-bahasa-indonesia",
@@ -396,6 +440,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2021/diagrams/";
+          
+        },
+      },{id: "post-wallpaper-amp-tutorial-cara-buat-minimalist",
+        
+          title: "Wallpaper &amp; Tutorial cara buat minimalist",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2021/wallpaper-tutorial-cara-buat-minimalist/";
+          
+        },
+      },{id: "post-tips-amp-trik-cara-mengunci-akun-facebook-tidak-bekerja-untuk-saat-ini",
+        
+          title: "Tips &amp; Trik cara mengunci akun Facebook (Tidak bekerja untuk saat ini)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2021/tips-trik-cara-mengunci-akun-facebook-tidak-bekerja-untuk-saat-ini/";
           
         },
       },{id: "post-novel-the-failure-alchemist-of-the-royal-capital-my-job-is-a-failure-so-i-ll-manage-my-store-carefreely-bahasa-indonesia-rena-translations",
@@ -528,6 +594,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2018/proyek-komik-telah-selesai-go-for-dream/";
+          
+        },
+      },{id: "post-mahjong-soul-on-desktop",
+        
+          title: "Mahjong Soul on Desktop",
+        
+        description: "cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2018/mahjong-soul-on-desktop/";
           
         },
       },{id: "post-a-distill-style-blog-post",
