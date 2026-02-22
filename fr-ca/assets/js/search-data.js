@@ -912,8 +912,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "actualités",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "actualités",},{id: "news-gradual-migration",
+          title: 'Gradual Migration',
           description: "",
           section: "actualités",handler: () => {
               window.location.href = "/test/fr-ca/news/announcement_2/";
