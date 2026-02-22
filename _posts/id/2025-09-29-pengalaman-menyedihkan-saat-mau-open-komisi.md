@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pengalaman menyedihkan saat mau open komisi
-date: 2025-19-29 21:18:16
+date: 2025-09-29 21:18:16
 tags: blogging, scammer
 categories: blogging
 thumbnail: assets/img/mathias-reding-Mg1AQZnCgJE-unsplash-1920x1280.jpg
