@@ -90,18 +90,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/test/pt-br/blog/";
               },
-            },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Postagens",
-        handler: () => {
-          
-            window.location.href = "/test/pt-br/blog/2026/2021-03-23-artikel-spesial-kustomisasi-tema-untuk-browser/";
-          
-        },
-      },{id: "post-just-a-moment",
+            },{id: "post-just-a-moment",
         
           title: 'Just a moment... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -528,6 +517,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/pt-br/blog/2021/tips-trik-cara-mengunci-akun-facebook-tidak-bekerja-untuk-saat-ini/";
+          
+        },
+      },{id: "post-artikel-spesial-kustomisasi-tema-untuk-browser",
+        
+          title: "Artikel Spesial | Kustomisasi tema untuk browser",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2021/artikel-spesial-kustomisasi-tema-untuk-browser/";
           
         },
       },{id: "post-novel-the-failure-alchemist-of-the-royal-capital-my-job-is-a-failure-so-i-ll-manage-my-store-carefreely-bahasa-indonesia-rena-translations",
@@ -980,6 +980,13 @@ ninja.data = [{
           window.open("/test/assets/pdf/pt-br//assets/pdf/[LANG]/example_pdf.pdf", "_blank");
         },
       },{
+        id: 'social-discord',
+        title: 'Discord',
+        section: 'Redes sociais',
+        handler: () => {
+          window.open("https://discord.com/users/304313603253862401", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'Enviar um email',
         section: 'Redes sociais',
@@ -1033,7 +1040,7 @@ ninja.data = [{
         title: 'Mastodon',
         section: 'Redes sociais',
         handler: () => {
-          window.open("https://https://mastodon.social/@naturbrilian", "_blank");
+          window.open("https://mastodon.social/@naturbrilian", "_blank");
         },
       },{
         id: 'social-rss',
