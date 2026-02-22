@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Artikel Spesial] Kustomisasi tema untuk browser
+title: Artikel Spesial | Kustomisasi tema untuk browser
 date: 2021-03-23 21:18:16
 tags: blogging, custom themes
 categories: blogging
