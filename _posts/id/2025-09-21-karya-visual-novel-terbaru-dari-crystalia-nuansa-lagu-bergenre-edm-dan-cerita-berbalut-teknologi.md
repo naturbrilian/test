@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Karya Visual Novel terbaru dari Crystalia, nuansa lagu bergenre edm dan cerita berbalut teknologi
-date: 2025-19-21 21:18:16
+date: 2025-09-21 21:18:16
 tags: blogging, visual novel
 categories: game
 thumbnail: assets/img/20250921_005614.jpg
