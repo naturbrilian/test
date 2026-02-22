@@ -145,6 +145,17 @@ ninja.data = [{
             window.location.href = "/test/blog/2024/photo-gallery/";
           
         },
+      },{id: "post-ada-rencana-mau-stay-di-blogspot-atau-pindah-ke-digitalpress",
+        
+          title: "Ada rencana mau stay di Blogspot atau pindah ke DigitalPress?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2024/ada-rencana-mau-stay-di-blogspot-atau-digitalpress/";
+          
+        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
@@ -277,6 +288,50 @@ ninja.data = [{
             window.location.href = "/test/blog/2023/tikzjax/";
           
         },
+      },{id: "post-punya-blog-nganggur-fungsikan-aja-sebagai-blog-sharing-lagu",
+        
+          title: "Punya blog nganggur? fungsikan aja sebagai blog sharing lagu",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2023/punya-blog-nganggur/";
+          
+        },
+      },{id: "post-bingung-mau-pasang-domain-di-web-proyek-terjemahan-namun-terkendala-biaya-fansubid-memberikan-sub-domain-gratis-buat-kamu",
+        
+          title: "Bingung mau pasang domain di web proyek terjemahan, namun terkendala biaya? FansubID memberikan...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2023/bingung-mau-pasang-domain-di-web-proyek/";
+          
+        },
+      },{id: "post-alasan-aku-tidak-menggunakan-hatena-lagi-sebagai-cabang-blog-bahasa-inggris",
+        
+          title: "Alasan aku tidak menggunakan Hatena lagi sebagai cabang blog Bahasa Inggris",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2023/alasan-aku-tidak-menggunakan-hatena-lagi-sebagai-cabang-blog-bahasa-inggris/";
+          
+        },
+      },{id: "post-proyek-unit-terjemahan-nanako-tidak-dilanjut-mengapa",
+        
+          title: "Proyek unit terjemahan Nanako tidak dilanjut, mengapa?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2023/proyek-unit-terjemahan-nanako-tidak-dilanjut-mengapa/";
+          
+        },
       },{id: "post-proyek-situs-web-hananako-dimulai-tidak-terealisasikan",
         
           title: "Proyek Situs Web Hananako dimulai (tidak terealisasikan)",
@@ -286,6 +341,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2023/proyek-situs-web-hananako-dimulai/";
+          
+        },
+      },{id: "post-pengumuman-dari-tetsuya-amano-dan-pemilik-blog",
+        
+          title: "Pengumuman dari Tetsuya Amano dan Pemilik Blog",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2023/pengumuman-dari-tetsuya-amano-dan-pemilik-blog/";
           
         },
       },{id: "post-a-post-with-bibliography",
