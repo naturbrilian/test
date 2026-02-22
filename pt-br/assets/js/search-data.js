@@ -90,7 +90,73 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/test/pt-br/blog/";
               },
-            },{id: "post-proses-migrasi-sudah-selesai",
+            },{id: "post-di-penghujung-akhir-tahun",
+        
+          title: "Di penghujung akhir tahun",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2025/di-penghujung-akhir-tahun/";
+          
+        },
+      },{id: "post-pengalaman-menyedihkan-saat-mau-open-komisi",
+        
+          title: "Pengalaman menyedihkan saat mau open komisi",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2025/pengalaman-menyedihkan-saat-mau-open-komisi/";
+          
+        },
+      },{id: "post-karya-visual-novel-terbaru-dari-crystalia-nuansa-lagu-bergenre-edm-dan-cerita-berbalut-teknologi",
+        
+          title: "Karya Visual Novel terbaru dari Crystalia, nuansa lagu bergenre edm dan cerita berbalut...",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2025/karya-visual-novel-terbaru-dari-crystalia-nuansa-lagu-bergenre-edm-dan-cerita-berbalut-teknologi/";
+          
+        },
+      },{id: "post-sempat-frustasi-karena-masalah-driver-wifi-di-linux",
+        
+          title: "Sempat frustasi karena masalah driver wifi di Linux",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2025/sempat-frustasi/";
+          
+        },
+      },{id: "post-permasalahan-502-bad-request-yang-sangat-mengganggu",
+        
+          title: "Permasalahan 502 bad request yang sangat mengganggu",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2025/permasalahan-502-bad-request-yang-sangat-mengganggu/";
+          
+        },
+      },{id: "post-menggunakan-chatgpt-untuk-membuat-skrip-sederhana",
+        
+          title: "Menggunakan chatGPT untuk membuat skrip sederhana",
+        
+        description: "",
+        section: "Postagens",
+        handler: () => {
+          
+            window.location.href = "/test/pt-br/blog/2025/lastfm-to-bsky/";
+          
+        },
+      },{id: "post-proses-migrasi-sudah-selesai",
         
           title: "Proses migrasi sudah selesai",
         
