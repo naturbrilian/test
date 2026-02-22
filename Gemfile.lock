@@ -329,4 +329,4 @@ DEPENDENCIES
   ostruct
 
 BUNDLED WITH
-   2.5.x  # or any stable 2.x version
+  4.0.4
