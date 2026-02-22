@@ -23,7 +23,7 @@ Oke kita lanjut, nah chat awal itu masih normal-normal aja dia bilang ke aku, ka
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.png" title="hananako main" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/chat-1.png" title="hananako main" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
