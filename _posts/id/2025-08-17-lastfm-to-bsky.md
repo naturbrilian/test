@@ -21,12 +21,13 @@ Akhirnya terlintas di pikiranku soal akunku yang beralamat di [@scrobble.naturbr
 
 ## Cara untuk memberi perintah kepada chatGPT ini sangat mudah, pertama aku memberi perintah seperti ini layaknya kamu mengobrol dengan temanmu
 
-{% raw %}
 
+
+
+```command
 ```aku kan punya akun di bluesky dengan username ini https://bsky.app/profile/namapengguna.bsky.social nah, rencananya tuh akun ini mau aku pake untuk memposting apa yang aku dengarkan menggunakan api nya lastfm, hmm aku pernah coba toolsnya seperti LegatoNowPlaying dari github, cuma ini untuk di misskey doang.. tau gak tools atau scriptnya yang saat ini bekerja?
 ```
 
-{% endraw %}
 
 Tunggu sampai chatGPT merespon, biasanya chatGPT akan merespon dengan rekomendasi beberapa alat yang kamu maksud, terkadang jawaban yang diterima kadang tidak sesuai. Jadi coba lakukan percakapan lagi seperti biasa dengan seperti ini.
 
@@ -86,9 +87,8 @@ Setelah semua problem terpecahkan, mari kita tes apa scriptnya berjalan dengan b
 
 Gimana? mau mencobanya atau aku taruh script hasil modifikasinya dibawah jika kamu ingin menyempurnakan
 
-{% raw %}
-
-```import requests, time, datetime
+```command
+mport requests, time, datetime
 
 LASTFM_USER = "USERNAMEKAMU"
 LASTFM_API_KEY = "APIKEYKAMU"
@@ -138,4 +138,7 @@ while True:
     time.sleep(30)
 ```
 
+{% raw %}
+
+```
 {% endraw %}
