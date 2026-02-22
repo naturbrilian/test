@@ -26,81 +26,81 @@ citation:
 collections:
   books: books
   posts: posts
-contact_note: You can even add a little note about which of these is the best way to reach you.
+contact_note: Anda dapat menambahkan catatan kecil tentang cara terbaik untuk menghubungi Anda.
 cv:
-  address: Address
+  address: Alamat
   area: Area
-  awarder: Awarder
-  awards: Awards
-  basics: General information
-  certificates: Certificates
-  city: City
-  countryCode: Country code
-  courses: Courses
-  date: Date
-  education: Education
-  email: Email
-  endDate: End date
-  fluency: Fluency
-  highlights: Highlights
-  image: Image
-  institution: Institution
-  interests: Interests
-  issuer: Issuer
-  keywords: Keywords
+  awarder: Pemberi penghargaan
+  awards: Penghargaan
+  basics: Informasi umum
+  certificates: Sertifikat
+  city: Kota
+  countryCode: Kode negara
+  courses: Kursus
+  date: Tanggal
+  education: Pendidikan
+  email: Surel
+  endDate: Tanggal berakhir
+  fluency: Fluent
+  highlights: Sorotan
+  image: Gambar
+  institution: Institusi
+  interests: Ketertarikan
+  issuer: Isu
+  keywords: Kata kunci
   label: Label
-  language: Language
-  languages: Languages
+  language: Bahasa
+  languages: Bahasa
   level: Level
-  location: Location
-  name: Name
-  network: Network
-  organization: Organization
-  phone: Phone
-  position: Position
-  postalCode: Postal Code
-  present: Present
-  profiles: Profiles
-  projects: Projects
-  publications: Publications
+  location: Lokasi
+  name: Nama
+  network: Jaringan
+  organization: Organisasi
+  phone: Telepon
+  position: Posisi
+  postalCode: Kode pos
+  present: Hadir
+  profiles: Profil
+  projects: Proyek
+  publications: Publikasi
   publisher: Publisher
-  reference: Reference
-  references: References
-  region: Region
-  releaseDate: Release date
-  score: Score
-  skills: Skills
-  startDate: Start date
-  studyType: Study type
-  summary: Summary
-  table_of_contents: Table of Contents
-  title: Title
+  reference: Referensi
+  references: Referensi
+  region: Negara
+  releaseDate: Tanggal rilis
+  score: Skor
+  skills: Skill
+  startDate: Tanggal mulai
+  studyType: Jenis studi
+  summary: Ringkasan
+  table_of_contents: Daftar isi
+  title: Judul
   url: Url
-  username: Username
+  username: Nama pengguna
   volunteer: Volunteer
-  work: Work
+  work: Pekerjaan
 footer:
-  copyright: Copyright
-  last_updated: "Last updated:"
+  copyright: Hak cipta
+  last_updated: "Terakhir diperbarui:"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Didukung oleh <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> dengan tema <a href="https://github.com/naturbrilian/test" target="_blank">al-folio</a>.
+  Dihosting di <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Foto dari <a href="https://google.com" target="_blank">Google</a>, deviantart dan pribadi.
 latest_posts: latest posts
 months:
   long:
-    january: January
-    february: February
-    march: March
+    january: Januari
+    february: Februari
+    march: Maret
     april: April
-    may: May
-    june: June
-    july: July
-    august: August
+    may: Mei
+    june: Juni
+    july: Juli
+    august: Agustus
     september: September
-    october: October
+    october: Oktober
     november: November
-    december: December
+    december: Desember
   short:
     january: Jan
     february: Feb
@@ -109,56 +109,56 @@ months:
     may: May
     june: Jun
     july: Jul
-    august: Aug
+    august: Agt
     september: Sep
-    october: Oct
+    october: Okt
     november: Nov
-    december: Dec
-news: news
+    december: Des
+news: kabar
 newsletter:
-  back: Back
-  error: "Oops! Something went wrong, please try again."
+  back: Kembali
+  error: "Ups! Terjadi kesalahan, silakan coba lagi."
   subscribe: subscribe
-  subscribed: "You have successfully subscribed to the newsletter."
-  subscribe_to_receive: "Subscribe to be notified of future articles:"
-  too_many_signups: "Too many signups, please try again in a little while"
-  wait: "Please wait..."
-no_news: No news so far...
-no_posts: "No posts so far..."
+  subscribed: "Anda telah berhasil berlangganan kabar berita."
+  subscribe_to_receive: "Berlangganan untuk mendapatkan pemberitahuan artikel-artikel baru:"
+  too_many_signups: "Karena banyaknya pendaftaran, silakan coba lagi dalam beberapa saat."
+  wait: "Silahkan tunggu..."
+no_news: Tidak ada kabar saat ini...
+no_posts: "Tidak ada postingan disini..."
 pagination:
-  page: page
+  page: halaman
 post:
-  created_in: Created in
-  created_by: by
-  last_updated: last updated in
-references: References
+  created_in: Dibuat pada
+  created_by: oleh
+  last_updated: terakhir diperbaharui pada
+references: Referensi
 related_posts:
-  description: "Here are some more articles you might like to read next:"
-  title: Enjoy Reading This Article?
+  description: "Ini beberapa artikel lain yang mungkin Anda suka untuk dibaca nanti:"
+  title: Nikmati Membaca Artikel Ini?
 search:
   dark_theme:
-    description: Change the theme of the site to Dark
-    title: Change theme to dark
+    description: Ubah tema situs ini ke Gelap
+    title: Ubah tema ke gelap
   dropdown: Dropdown
-  email: Send an email
+  email: Kirim surel
   footer:
-    close: to close
-    navigate: to navigate
-    parent: move to parent
-    select: to select
-  languages: Languages
+    close: untuk menutup
+    navigate: untuk berpindah
+    parent: pindahkan ke parent
+    select: untuk memilih
+  languages: Bahasa
   light_theme:
-    description: Change the theme of the site to Light
-    title: Change theme to light
-  navigation: Navigation menu
-  news: News
-  placeholder: Type to start searching
-  posts: Posts
+    description: Ubah tema situs ini ke Terang
+    title: Ubah tema ke terang
+  navigation: Menu navigasi
+  news: Kabar
+  placeholder: Mulailah mengetik untuk mencari
+  posts: Postingan
   projects: Projects
   socials: Socials
   system_theme:
-    description: Change the theme of the site to System Default
-    title: Use system default theme
+    description: Mengubah tema situs ke tema sistem default
+    title: Gunakan tema sistem default
   theme: Theme
 selected_publications: selected publications
-site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+site_description: Situs Natur Brilian | Web, Proyek dan lain-lain.
