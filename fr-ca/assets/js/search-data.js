@@ -156,6 +156,28 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2025/lastfm-to-bsky/";
           
         },
+      },{id: "post-tidak-bisa-lagi-bergantung-dengan-sosial-media-korporat-karena-kebobrokan-sistem-pada-iklan",
+        
+          title: "Tidak bisa lagi bergantung dengan sosial media korporat karena kebobrokan sistem pada iklan...",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2025/kebobrokan-sosmed-korporat-dan-sistem-ads/";
+          
+        },
+      },{id: "post-masalah-di-peladen-gratisan",
+        
+          title: "Masalah di peladen gratisan",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2025/masalah-di-server-gratisan/";
+          
+        },
       },{id: "post-proses-migrasi-sudah-selesai",
         
           title: "Proses migrasi sudah selesai",
