@@ -1,8 +1,8 @@
 ---
-page_id: teman
-layout: profiles
+page_id: friends
+layout: page
 permalink: /friends/
-title: unduhan
+title: friends
 description: Daftar teman-teman saya
 nav: true
 ---

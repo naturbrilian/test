@@ -1,8 +1,8 @@
 ---
 page_id: friends
-layout: profiles
+layout: page
 permalink: /friends/
-title: unduhan
+title: friends
 description: List of my Friendlist
 nav: true
 ---
