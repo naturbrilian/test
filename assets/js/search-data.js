@@ -20,16 +20,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/test/";
     },
-  },{id: "nav-unduhan",
-          title: "unduhan",
+  },{id: "nav-friends",
+          title: "friends",
           description: "List of my Friendlist",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/test/friends/";
-          },
-        },{id: "nav-unduhan",
-          title: "unduhan",
-          description: "Daftar teman-teman saya",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/test/friends/";
