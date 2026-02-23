@@ -1,7 +1,0 @@
----
-page_id: downloads
-layout: profiles
-permalink: /downloads/
-title: downloads
-nav: true
----
