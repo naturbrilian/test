@@ -883,6 +883,17 @@ ninja.data = [{
             window.open("https://yummyulia.blogspot.com/2019/03/the-big-five-team-of-miniature-program.html", "_blank");
           
         },
+      },{id: "post-last-project-for-go-for-dream",
+        
+          title: "Last Project for Go For Dream",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2019/last-project-for-go-for-dream/";
+          
+        },
       },{id: "post-proyek-komik-telah-selesai-go-for-dream",
         
           title: "Proyek Komik Telah Selesai (Go For Dream)",
@@ -903,6 +914,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/id/blog/2018/distill/";
+          
+        },
+      },{id: "post-an-old-project-that-i-just-posted-on-my-personal-blog",
+        
+          title: "An old project that I just posted on my personal blog",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2018/proyek-lama-yang-baru-saja-saya-posting-di-blog-pribadi/";
           
         },
       },{id: "post-a-post-with-disqus-comments",

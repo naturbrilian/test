@@ -76,9 +76,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/test/fr-ca/downloads/";
               },
-            },{id: "post-memverifikasi-kepemilikan-tautan-ternyata-mudah",
+            },{id: "post-verifying-link-ownership-is-surprisingly-easy",
         
-          title: "Memverifikasi kepemilikan tautan ternyata mudah",
+          title: "Verifying link ownership is surprisingly easy",
         
         description: "",
         section: "articles",
@@ -142,9 +142,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2025/permasalahan-502-bad-request-yang-sangat-mengganggu/";
           
         },
-      },{id: "post-menggunakan-chatgpt-untuk-membuat-skrip-sederhana",
+      },{id: "post-using-chatgpt-to-create-simple-code",
         
-          title: "Menggunakan chatGPT untuk membuat skrip sederhana",
+          title: "Using chatGPT to create simple code",
         
         description: "",
         section: "articles",
@@ -670,9 +670,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2022/mahjong-soul-on-desktop/";
           
         },
-      },{id: "post-anniversary-proyek-gingalibadeidara-works-yang-ke-8",
+      },{id: "post-anniversary-of-gingalibadeidara-works-8-years-from-blogging-until-translations-project",
         
-          title: "Anniversary Proyek Gingalibadeidara Works yang ke 8",
+          title: "Anniversary of gingalibadeidara works 8 years (from Blogging until Translations Project)",
         
         description: "",
         section: "articles",
@@ -747,9 +747,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2021/wallpaper-tutorial-cara-buat-minimalist/";
           
         },
-      },{id: "post-tips-amp-trik-cara-mengunci-akun-facebook-tidak-bekerja-untuk-saat-ini",
+      },{id: "post-tips-amp-tricks-how-to-lock-facebook-account-not-working-at-the-moment",
         
-          title: "Tips &amp; Trik cara mengunci akun Facebook (Tidak bekerja untuk saat ini)",
+          title: "Tips &amp; Tricks how to lock Facebook account (Not working at the moment)...",
         
         description: "",
         section: "articles",
@@ -769,9 +769,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2021/artikel-spesial-kustomisasi-tema-untuk-browser/";
           
         },
-      },{id: "post-novel-the-failure-alchemist-of-the-royal-capital-my-job-is-a-failure-so-i-ll-manage-my-store-carefreely-bahasa-indonesia-rena-translations",
+      },{id: "post-https-renatl-blogspot-com-2021-04-novel-failure-alchemist-of-royal-html",
         
-          title: '[Novel] The Failure Alchemist of the Royal Capital ~My job is a failure... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "articles",
@@ -868,9 +868,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2020/saya-kembali-dengan-sebuah-eksperimen-baru/";
           
         },
-      },{id: "post-sempat-kepikiran-kalau-ingin-menghentikan-aktivitas-dalam-pembuatan-proyek-vektor",
+      },{id: "post-i-had-thought-about-stopping-the-activity-of-creating-vector-projects",
         
-          title: "Sempat kepikiran kalau ingin menghentikan aktivitas dalam pembuatan proyek vektor",
+          title: "I had thought about stopping the activity of creating vector projects.",
         
         description: "",
         section: "articles",
@@ -890,9 +890,20 @@ ninja.data = [{
             window.open("https://yummyulia.blogspot.com/2019/03/the-big-five-team-of-miniature-program.html", "_blank");
           
         },
-      },{id: "post-proyek-komik-telah-selesai-go-for-dream",
+      },{id: "post-last-project-for-go-for-dream",
         
-          title: "Proyek Komik Telah Selesai (Go For Dream)",
+          title: "Last Project for Go For Dream",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2019/last-project-for-go-for-dream/";
+          
+        },
+      },{id: "post-comics-project-is-done-go-for-dream",
+        
+          title: "Comics Project is Done (Go For Dream)",
         
         description: "",
         section: "articles",
@@ -910,6 +921,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/fr-ca/blog/2018/distill/";
+          
+        },
+      },{id: "post-an-old-project-that-i-just-posted-on-my-personal-blog",
+        
+          title: "An old project that I just posted on my personal blog",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2018/proyek-lama-yang-baru-saja-saya-posting-di-blog-pribadi/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -945,9 +967,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2015/download-naruto-shippuden-ultimate-ninja-storm-revolution-for-pc/";
           
         },
-      },{id: "post-pengertian-seorang-desainer",
+      },{id: "post-definition-of-a-designer",
         
-          title: "Pengertian Seorang Desainer",
+          title: "Definition of a Designer",
         
         description: "",
         section: "articles",
@@ -956,9 +978,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2015/pengertian-seorang-desainer/";
           
         },
-      },{id: "post-jenis-dan-ciri-ciri-kamera",
+      },{id: "post-types-and-features-of-cameras",
         
-          title: "Jenis Dan Ciri Ciri Kamera",
+          title: "Types and Features of Cameras",
         
         description: "",
         section: "articles",
