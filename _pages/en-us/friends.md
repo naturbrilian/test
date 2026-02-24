@@ -16,13 +16,13 @@ These are some links that I often visit, localization project sites & some appli
 4. [Sukabumi Otaku Network (Grup)](https://info.smiotaku.my.id/)
 5. [Re*Index](https://reindex-ot.github.io/)
 
-## Unit Group Translation
+## Friends on Social Media
 1. [yummyyulia](https://yummyulia.blogspot.com/)
 2. [Nectarinia](https://nectarinia99.wordpress.com/)
 3. [Rocket Rola / Han](https://x.com/RolaRocket)
 4. [Axionite / Han](https://x.com/rayhanlmao)
 
-## Grup unit penerjemah
+## Unit Group Translation
 1. [Roku Translation](https://rokutranslations.wordpress.com/)
 2. [Rena Translation](https://renatl.blogspot.com/)
 3. [shirayuki-chan](https://www.shirayuki-chan.my.id/)
