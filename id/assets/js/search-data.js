@@ -80,6 +80,17 @@ ninja.data = [{
             window.location.href = "/test/id/blog/2026/memverifikasi-kepemilikan-tautan-ternyata-mudah/";
           
         },
+      },{id: "post-cara-membuat-skrip-untuk-dukungan-multi-warna-pada-skinmu-sendiri",
+        
+          title: "Cara membuat skrip untuk dukungan multi-warna pada skinmu sendiri",
+        
+        description: "an example of a blog post with table of contents",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2026/script-skin-tutorial/";
+          
+        },
       },{id: "post-di-penghujung-akhir-tahun",
         
           title: "Di penghujung akhir tahun",

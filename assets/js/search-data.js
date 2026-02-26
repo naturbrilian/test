@@ -87,6 +87,17 @@ ninja.data = [{
             window.location.href = "/test/blog/2026/memverifikasi-kepemilikan-tautan-ternyata-mudah/";
           
         },
+      },{id: "post-how-to-create-a-script-for-multi-color-support-on-your-own-skins",
+        
+          title: "How to create a script for multi-color support on your own skins",
+        
+        description: "an example of a blog post with table of contents",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2026/script-skin-tutorial/";
+          
+        },
       },{id: "post-at-the-end-of-the-year",
         
           title: "At the end of the year",
@@ -813,9 +824,9 @@ ninja.data = [{
             window.open("https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html", "_blank");
           
         },
-      },{id: "post-pengumuman-sebuah-proyek-baru",
+      },{id: "post-announcement-of-a-new-project",
         
-          title: "Pengumuman Sebuah Proyek Baru",
+          title: "Announcement of a new project",
         
         description: "",
         section: "Posts",
