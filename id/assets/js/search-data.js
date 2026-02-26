@@ -91,6 +91,17 @@ ninja.data = [{
             window.location.href = "/test/id/blog/2025/di-penghujung-akhir-tahun/";
           
         },
+      },{id: "post-what-are-the-characteristics-of-a-scammer",
+        
+          title: "What are the characteristics of a scammer?",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2025/what-are-the-characteristics-of-a-scammer/";
+          
+        },
       },{id: "post-pengalaman-menyedihkan-saat-mau-open-komisi",
         
           title: "Pengalaman menyedihkan saat mau open komisi",
@@ -234,6 +245,17 @@ ninja.data = [{
             window.location.href = "/test/id/blog/2025/plotly/";
           
         },
+      },{id: "post-this-blog-is-not-totally-dead",
+        
+          title: "This blog is not totally dead",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2025/this-blog-is-not-completed-dead/";
+          
+        },
       },{id: "post-masalah-heatsink-laptop-amp-fitur-hyper-v",
         
           title: "Masalah heatsink laptop &amp; Fitur Hyper-V",
@@ -287,6 +309,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/id/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-tutorial-tema-google-chrome",
+        
+          title: "Tutorial Tema Google Chrome",
+        
+        description: "cara membuat tema google chrome mu sendiri",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2024/tutorial-tema-google-chrome/";
           
         },
       },{id: "post-ada-rencana-mau-stay-di-blogspot-atau-pindah-ke-digitalpress",

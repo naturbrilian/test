@@ -87,15 +87,26 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2026/memverifikasi-kepemilikan-tautan-ternyata-mudah/";
           
         },
-      },{id: "post-di-penghujung-akhir-tahun",
+      },{id: "post-at-the-end-of-the-year",
         
-          title: "Di penghujung akhir tahun",
+          title: "At the end of the year",
         
         description: "",
         section: "articles",
         handler: () => {
           
             window.location.href = "/test/fr-ca/blog/2025/di-penghujung-akhir-tahun/";
+          
+        },
+      },{id: "post-what-are-the-characteristics-of-a-scammer",
+        
+          title: "What are the characteristics of a scammer?",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2025/what-are-the-characteristics-of-a-scammer/";
           
         },
       },{id: "post-pengalaman-menyedihkan-saat-mau-open-komisi",
@@ -175,9 +186,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2025/masalah-di-server-gratisan/";
           
         },
-      },{id: "post-proses-migrasi-sudah-selesai",
+      },{id: "post-the-migration-process-is-complete",
         
-          title: "Proses migrasi sudah selesai",
+          title: "The migration process is complete",
         
         description: "",
         section: "articles",
@@ -241,6 +252,17 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2025/plotly/";
           
         },
+      },{id: "post-this-blog-is-not-totally-dead",
+        
+          title: "This blog is not totally dead",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2025/this-blog-is-not-completed-dead/";
+          
+        },
       },{id: "post-masalah-heatsink-laptop-amp-fitur-hyper-v",
         
           title: "Masalah heatsink laptop &amp; Fitur Hyper-V",
@@ -263,9 +285,9 @@ ninja.data = [{
             window.open("https://nectarinia99.wordpress.com/2025/01/18/keabadian-atau-masa-depan-yang-kauharapkan/", "_blank");
           
         },
-      },{id: "post-postingan-terakhir-di-tahun-ini",
+      },{id: "post-last-post-in-this-year",
         
-          title: "Postingan terakhir di tahun ini",
+          title: "Last post in this year",
         
         description: "",
         section: "articles",
@@ -274,9 +296,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2024/postingan-akhir/";
           
         },
-      },{id: "post-memutuskan-untuk-pensi-dari-gim-favorit",
+      },{id: "post-deciding-to-retiring-from-my-favourite-game",
         
-          title: "Memutuskan untuk pensi dari gim favorit",
+          title: "Deciding to retiring from my favourite game",
         
         description: "",
         section: "articles",
@@ -294,6 +316,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/fr-ca/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-tutorial-tema-google-chrome",
+        
+          title: "Tutorial Tema Google Chrome",
+        
+        description: "how to create your own Google Chrome theme",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2024/tutorial-tema-google-chrome/";
           
         },
       },{id: "post-ada-rencana-mau-stay-di-blogspot-atau-pindah-ke-digitalpress",
@@ -450,9 +483,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2023/punya-blog-nganggur/";
           
         },
-      },{id: "post-bingung-mau-pasang-domain-di-web-proyek-terjemahan-namun-terkendala-biaya-fansubid-memberikan-sub-domain-gratis-buat-kamu",
+      },{id: "post-don-39-t-know-if-you-want-to-put-a-domain-on-your-translation-project-but-you-can-39-t-afford-it-fansubid-provides-free-sub-domains-for-you",
         
-          title: "Bingung mau pasang domain di web proyek terjemahan, namun terkendala biaya? FansubID memberikan...",
+          title: "Don&#39;t know if you want to put a domain on your translation project,...",
         
         description: "",
         section: "articles",
@@ -663,7 +696,7 @@ ninja.data = [{
         
           title: "Mahjong Soul on Desktop",
         
-        description: "cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)",
+        description: "how to run Mahjong Soul as a standalone application (tutorial is outdated)",
         section: "articles",
         handler: () => {
           
@@ -769,9 +802,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2021/artikel-spesial-kustomisasi-tema-untuk-browser/";
           
         },
-      },{id: "post-https-renatl-blogspot-com-2021-04-novel-failure-alchemist-of-royal-html",
+      },{id: "post-novel-the-failure-alchemist-of-the-royal-capital-my-job-is-a-failure-so-i-ll-manage-my-store-carefreely-bahasa-indonesia-rena-translations",
         
-          title: 'https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '[Novel] The Failure Alchemist of the Royal Capital ~My job is a failure... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "articles",

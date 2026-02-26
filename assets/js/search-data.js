@@ -87,15 +87,26 @@ ninja.data = [{
             window.location.href = "/test/blog/2026/memverifikasi-kepemilikan-tautan-ternyata-mudah/";
           
         },
-      },{id: "post-di-penghujung-akhir-tahun",
+      },{id: "post-at-the-end-of-the-year",
         
-          title: "Di penghujung akhir tahun",
+          title: "At the end of the year",
         
         description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/test/blog/2025/di-penghujung-akhir-tahun/";
+          
+        },
+      },{id: "post-what-are-the-characteristics-of-a-scammer",
+        
+          title: "What are the characteristics of a scammer?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2025/what-are-the-characteristics-of-a-scammer/";
           
         },
       },{id: "post-pengalaman-menyedihkan-saat-mau-open-komisi",
@@ -175,9 +186,9 @@ ninja.data = [{
             window.location.href = "/test/blog/2025/masalah-di-server-gratisan/";
           
         },
-      },{id: "post-proses-migrasi-sudah-selesai",
+      },{id: "post-the-migration-process-is-complete",
         
-          title: "Proses migrasi sudah selesai",
+          title: "The migration process is complete",
         
         description: "",
         section: "Posts",
@@ -241,6 +252,17 @@ ninja.data = [{
             window.location.href = "/test/blog/2025/plotly/";
           
         },
+      },{id: "post-this-blog-is-not-totally-dead",
+        
+          title: "This blog is not totally dead",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2025/this-blog-is-not-completed-dead/";
+          
+        },
       },{id: "post-masalah-heatsink-laptop-amp-fitur-hyper-v",
         
           title: "Masalah heatsink laptop &amp; Fitur Hyper-V",
@@ -263,9 +285,9 @@ ninja.data = [{
             window.open("https://nectarinia99.wordpress.com/2025/01/18/keabadian-atau-masa-depan-yang-kauharapkan/", "_blank");
           
         },
-      },{id: "post-postingan-terakhir-di-tahun-ini",
+      },{id: "post-last-post-in-this-year",
         
-          title: "Postingan terakhir di tahun ini",
+          title: "Last post in this year",
         
         description: "",
         section: "Posts",
@@ -274,9 +296,9 @@ ninja.data = [{
             window.location.href = "/test/blog/2024/postingan-akhir/";
           
         },
-      },{id: "post-memutuskan-untuk-pensi-dari-gim-favorit",
+      },{id: "post-deciding-to-retiring-from-my-favourite-game",
         
-          title: "Memutuskan untuk pensi dari gim favorit",
+          title: "Deciding to retiring from my favourite game",
         
         description: "",
         section: "Posts",
@@ -294,6 +316,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "post-tutorial-tema-google-chrome",
+        
+          title: "Tutorial Tema Google Chrome",
+        
+        description: "how to create your own Google Chrome theme",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2024/tutorial-tema-google-chrome/";
           
         },
       },{id: "post-ada-rencana-mau-stay-di-blogspot-atau-pindah-ke-digitalpress",
@@ -450,9 +483,9 @@ ninja.data = [{
             window.location.href = "/test/blog/2023/punya-blog-nganggur/";
           
         },
-      },{id: "post-bingung-mau-pasang-domain-di-web-proyek-terjemahan-namun-terkendala-biaya-fansubid-memberikan-sub-domain-gratis-buat-kamu",
+      },{id: "post-don-39-t-know-if-you-want-to-put-a-domain-on-your-translation-project-but-you-can-39-t-afford-it-fansubid-provides-free-sub-domains-for-you",
         
-          title: "Bingung mau pasang domain di web proyek terjemahan, namun terkendala biaya? FansubID memberikan...",
+          title: "Don&#39;t know if you want to put a domain on your translation project,...",
         
         description: "",
         section: "Posts",
@@ -663,7 +696,7 @@ ninja.data = [{
         
           title: "Mahjong Soul on Desktop",
         
-        description: "cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)",
+        description: "how to run Mahjong Soul as a standalone application (tutorial is outdated)",
         section: "Posts",
         handler: () => {
           
@@ -714,11 +747,11 @@ ninja.data = [{
             window.location.href = "/test/blog/2022/post-pertama-di-tahun-2022/";
           
         },
-      },{id: "post-https-www-shirayuki-chan-my-id-2021-08-light-novel-moriarty-patriot-volume-1-3-html",
+      },{id: "post-light-novel-moriarty-the-patriot-volume-1-3-bahasa-indonesia",
         
-          title: 'https://www.shirayuki-chan.my.id/2021/08/light-novel-moriarty-patriot-volume-1-3.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Light Novel Moriarty The Patriot Volume 1-3 Bahasa Indonesia <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "JUST TO ANSWER YOUR CURIOSITY, ESPECIALLY ABOUT ANIME :)",
         section: "Posts",
         handler: () => {
           
@@ -769,9 +802,9 @@ ninja.data = [{
             window.location.href = "/test/blog/2021/artikel-spesial-kustomisasi-tema-untuk-browser/";
           
         },
-      },{id: "post-https-renatl-blogspot-com-2021-04-novel-failure-alchemist-of-royal-html",
+      },{id: "post-novel-the-failure-alchemist-of-the-royal-capital-my-job-is-a-failure-so-i-ll-manage-my-store-carefreely-bahasa-indonesia-rena-translations",
         
-          title: 'https://renatl.blogspot.com/2021/04/novel-failure-alchemist-of-royal.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '[Novel] The Failure Alchemist of the Royal Capital ~My job is a failure... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -879,11 +912,11 @@ ninja.data = [{
             window.location.href = "/test/blog/2020/sempat-kepikiran-kalau-ingin-menghentikan-aktivitas-dalam-pembuatan-proyek-vektor/";
           
         },
-      },{id: "post-https-yummyulia-blogspot-com-2019-03-the-big-five-team-of-miniature-program-html",
+      },{id: "post-my-absurd-imaginations-the-big-five-team-of-miniature-program",
         
-          title: 'https://yummyulia.blogspot.com/2019/03/the-big-five-team-of-miniature-program.html <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '~MY ABSURD IMAGINATIONS~: THE BIG FIVE TEAM OF MINIATURE PROGRAM <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "HALOOOOO! APA KABAR KALIAN?! KALIAN PASTI MERINDUKANKU~ //TAMPAR",
         section: "Posts",
         handler: () => {
           
