@@ -5,7 +5,7 @@ description: how to create your own Google Chrome theme
 tags: tutorial
 giscus_comments: true
 date: 2024-11-12
-featured: true
+featured: false
 mermaid:
   enabled: true
   zoomable: true

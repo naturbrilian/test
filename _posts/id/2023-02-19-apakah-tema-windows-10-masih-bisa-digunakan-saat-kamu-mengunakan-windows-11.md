@@ -5,7 +5,7 @@ description: cara menerapkan tema windows 10 ke 11
 tags: tutorial
 giscus_comments: true
 date: 2023-02-19
-featured: true
+featured: false
 mermaid:
   enabled: true
   zoomable: true

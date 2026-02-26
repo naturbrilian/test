@@ -1,11 +1,11 @@
 ---
 layout: distill
-title: Apakah Tema Windows 10 masih bisa digunakan saat kamu mengunakan Windows 11?
-description: cara menerapkan tema windows 10 ke 11
+title: Can Windows 10 themes still be used when you are using Windows 11?
+description: how to apply windows 10 theme to 11
 tags: tutorial
 giscus_comments: true
 date: 2023-02-19
-featured: true
+featured: false
 mermaid:
   enabled: true
   zoomable: true

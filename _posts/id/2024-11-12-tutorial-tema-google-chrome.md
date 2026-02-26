@@ -5,7 +5,7 @@ description: cara membuat tema google chrome mu sendiri
 tags: tutorial
 giscus_comments: true
 date: 2024-11-12
-featured: true
+featured: false
 mermaid:
   enabled: true
   zoomable: true
