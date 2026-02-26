@@ -637,11 +637,11 @@ ninja.data = [{
             window.location.href = "/test/blog/2023/google-chrome-themes-shiroko-blue-archive/";
           
         },
-      },{id: "post-apakah-tema-windows-10-masih-bisa-digunakan-saat-kamu-mengunakan-windows-11",
+      },{id: "post-can-windows-10-themes-still-be-used-when-you-are-using-windows-11",
         
-          title: "Apakah Tema Windows 10 masih bisa digunakan saat kamu mengunakan Windows 11?",
+          title: "Can Windows 10 themes still be used when you are using Windows 11?...",
         
-        description: "cara menerapkan tema windows 10 ke 11",
+        description: "how to apply windows 10 theme to 11",
         section: "Posts",
         handler: () => {
           
