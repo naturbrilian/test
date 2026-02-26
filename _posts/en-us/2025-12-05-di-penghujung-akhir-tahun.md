@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Di penghujung akhir tahun
+title: At the end of the year
 date: 2025-12-05 21:18:16
 tags: blogging, refreshing
 categories: blogging

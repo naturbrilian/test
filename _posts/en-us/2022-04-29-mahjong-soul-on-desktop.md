@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Mahjong Soul on Desktop
-description: cara menjalankan Mahjong Soul seperti aplikasi mandiri (tutorial sudah usang)
+description: how to run Mahjong Soul as a standalone application (tutorial is outdated)
 tags: tutorial
 giscus_comments: true
 date: 2022-04-29
@@ -31,15 +31,15 @@ bibliography: 2018-12-22-distill.bib
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
-  - name: PENGENALAN
+  - name: Introduction
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: Sebelumnya apa sih itu Mahjong atau Mahjong Soul itu?
-  - name: PEMASANGAN
-  - name: Jalankan & Mainkan
-  - name: Penggantian URL pada desktop client Mahjong Soul
+  - name: First, what exactly is Mahjong or Mahjong Soul?
+  - name: Installation
+  - name: Run & Play
+  - name: Change the URL on the Mahjong Soul desktop client
   - name: Tutorial Video Version
 
 # Below is an example of injecting additional post-specific styles.
@@ -61,27 +61,26 @@ _styles: >
   }
 ---
 
-## PENGENALAN
+## Introduction
 
 ---
 
-## Sebelumnya apa sih itu Mahjong atau Mahjong Soul itu?
+## First, what exactly is Mahjong or Mahjong Soul?
 
-Mahyong atau orang biasa menyebutnya Mahjong adalah sebuah permainan untuk empat orang yang berasal dari Cina. Ini adalah permainan yang menuntut kecakapan, strategi, kecerdasan, kalkulasi, dan peruntungan. Tergantung pada variasi permainannya, faktor keberuntungan bisa kecil atau dominan. Di Asia, mahyong adalah permainan yang populer untuk judi atau permainan komputer.
+Mahjong, or commonly known as Mahjong, is a game for four people that originated in China. It is a game that requires skill, strategy, intelligence, calculation, and luck. Depending on the variation of the game, the luck factor can be minor or dominant. In Asia, mahjong is a popular game for gambling or computer games.
 
 ---
 
-## PEMASANGAN
+## Installation
 
-Kamu hanya perlu satu software bernama NodeJS, kamu bisa memasangnya melalui pranala [berikut](https://www.google.com/url?q=https%3A%2F%2Fnodejs.org%2Fen%2Fdownload%2Fcurrent%2F&sa=D&sntz=1&usg=AOvVaw2NBLQNRYaH0g2zYL7qEUe2). Kemudian install seperti biasa (disini aku lewati karena sudah terpasang).
-
+You only need one piece of software called NodeJS. which you can install via the following [link](https://www.google.com/url?q=https%3A%2F%2Fnodejs.org%2Fen%2Fdownload%2Fcurrent%2F&sa=D&sntz=1&usg=AOvVaw2NBLQNRYaH0g2zYL7qEUe2). Then install it as usual (I'll skip this part since it's already installed).
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/node-js.png" title="start menu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-Kemudian [download](https://github.com/berpergian/MahjongSoul-Dekstop) & ekstrak dimana saja, ya asalkan mudah diingat lokasi penyimpanannya.
+Then [download](https://github.com/berpergian/MahjongSoul-Dekstop) & extract it anywhere, as long as you remember where you saved it.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -94,7 +93,7 @@ Kemudian [download](https://github.com/berpergian/MahjongSoul-Dekstop) & ekstrak
     </div>
 </div>
 
-Setelah file yang terekstrak semua, jalankan windows terminal atau jalankan cmd di folder seperti ini.
+After all files have been extracted, run Windows Terminal or run cmd in a folder like this.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -102,7 +101,7 @@ Setelah file yang terekstrak semua, jalankan windows terminal atau jalankan cmd 
     </div>
 </div>
 
-Lalu ketikkan baris perintah npm install seperti gambar ini dan tunggu proses sampai selesai.
+Then type the command line npm install as shown in this image and wait for the process to complete.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -112,9 +111,9 @@ Lalu ketikkan baris perintah npm install seperti gambar ini dan tunggu proses sa
 
 ---
 
-## Jalankan & Mainkan
+## Run & Play
 
-Setelah selesai semua proses, tinggal jalankan npm start seperti pada gambar ini.
+After completing all the processes, just run npm start as shown in this image.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -122,7 +121,7 @@ Setelah selesai semua proses, tinggal jalankan npm start seperti pada gambar ini
     </div>
 </div>
 
-voila, kamu bisa memainkannya tanpa perlu membuka peramban kamu. Kebetulan untuk event saat ini sedang kolab dengan anime Perang cinta nona Kaguya (artikel ini ditulis tahun 2022), yang bisa kamu tonton di YouTube atau bilibili.
+Voilà, you can play it without having to open your browser. Incidentally, for the current event, we are collaborating with the anime Kaguya-sama: Love is War (this article was written in 2022), which you can watch on YouTube or Bilibili.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -132,9 +131,9 @@ voila, kamu bisa memainkannya tanpa perlu membuka peramban kamu. Kebetulan untuk
 
 ---
 
-## Penggantian URL pada desktop client Mahjong Soul
+## Change the URL on the Mahjong Soul desktop client
 
-Ingin bermain versi lain? simpel kamu tinggal sunting di berkas index.html nya menggunakan text editor terserah. Ganti ke game.mahjongsoul.com untuk server Jepang seperti gambar di bawah.
+Want to play another version? Simply edit the index.html file using any text editor. Change it to game.mahjongsoul.com for the Japanese server, as shown in the image below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -148,7 +147,7 @@ Ingin bermain versi lain? simpel kamu tinggal sunting di berkas index.html nya m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nSzSK884S_o?si=oaqXmZVIRbZWxzHe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Punya pertanyaan seputar permainan ini? tinggal kontak saya di
+Have questions about this game? Just contact me at
 1. Twitter : [@naturbrilian](https://twitter.com/naturbrilian) 
 2. Discord: [discord.gg/Bz9YuXs9S3](http://discord.gg/Bz9YuXs9S3)
 
