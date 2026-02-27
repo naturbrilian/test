@@ -795,6 +795,17 @@ ninja.data = [{
             window.location.href = "/test/id/blog/2021/tips-trik-cara-mengunci-akun-facebook-tidak-bekerja-untuk-saat-ini/";
           
         },
+      },{id: "post-it-39-s-been-a-long-time-since-updating-this-blog",
+        
+          title: "It&#39;s been a long time since updating this blog",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2021/its-been-a-long-time-since-updating-this-blog/";
+          
+        },
       },{id: "post-artikel-spesial-kustomisasi-tema-untuk-browser",
         
           title: "Artikel Spesial | Kustomisasi tema untuk browser",
@@ -850,6 +861,28 @@ ninja.data = [{
             window.location.href = "/test/id/blog/2020/apa-saja-yang-terjadi-selama-1-tahun-ini/";
           
         },
+      },{id: "post-migrating-to-a-new-blog-soon",
+        
+          title: "Migrating to a new blog, soon!",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2020/migrating-to-a-new-blog-soon/";
+          
+        },
+      },{id: "post-first-post-on-december-39-s",
+        
+          title: "First Post on December&#39;s",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2020/first-post-on-decembers/";
+          
+        },
       },{id: "post-tulisan-pertama-di-tahun-2020",
         
           title: "Tulisan pertama di tahun 2020",
@@ -870,6 +903,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/id/blog/2020/proyek-lama-tiba-tiba-di-angkat-kembali/";
+          
+        },
+      },{id: "post-in-the-near-future-i-will-have-a-web-page",
+        
+          title: "In the near future, I will have a web page",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2020/in-the-near-future-i-will-have-a-web-page/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -947,6 +991,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/id/blog/2018/proyek-komik-telah-selesai-go-for-dream/";
+          
+        },
+      },{id: "post-last-project",
+        
+          title: "Last project",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2018/last-project/";
+          
+        },
+      },{id: "post-welcome-to-new-blog",
+        
+          title: "Welcome to new blog",
+        
+        description: "",
+        section: "Postingan",
+        handler: () => {
+          
+            window.location.href = "/test/id/blog/2018/welcome/";
           
         },
       },{id: "post-a-distill-style-blog-post",

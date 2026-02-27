@@ -802,6 +802,17 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2021/tips-trik-cara-mengunci-akun-facebook-tidak-bekerja-untuk-saat-ini/";
           
         },
+      },{id: "post-it-39-s-been-a-long-time-since-updating-this-blog",
+        
+          title: "It&#39;s been a long time since updating this blog",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2021/its-been-a-long-time-since-updating-this-blog/";
+          
+        },
       },{id: "post-artikel-spesial-kustomisasi-tema-untuk-browser",
         
           title: "Artikel Spesial | Kustomisasi tema untuk browser",
@@ -857,6 +868,28 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2020/apa-saja-yang-terjadi-selama-1-tahun-ini/";
           
         },
+      },{id: "post-migrating-to-a-new-blog-soon",
+        
+          title: "Migrating to a new blog, soon!",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2020/migrating-to-a-new-blog-soon/";
+          
+        },
+      },{id: "post-first-post-on-december-39-s",
+        
+          title: "First Post on December&#39;s",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2020/first-post-on-decembers/";
+          
+        },
       },{id: "post-tulisan-pertama-di-tahun-2020",
         
           title: "Tulisan pertama di tahun 2020",
@@ -868,15 +901,26 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2020/tulisan-pertama-di-tahun-2020/";
           
         },
-      },{id: "post-proyek-lama-tiba-tiba-di-angkat-kembali",
+      },{id: "post-the-old-project-was-suddenly-raised-again",
         
-          title: "Proyek lama tiba-tiba di angkat kembali",
+          title: "The old project was suddenly raised again",
         
         description: "",
         section: "articles",
         handler: () => {
           
             window.location.href = "/test/fr-ca/blog/2020/proyek-lama-tiba-tiba-di-angkat-kembali/";
+          
+        },
+      },{id: "post-in-the-near-future-i-will-have-a-web-page",
+        
+          title: "In the near future, I will have a web page",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2020/in-the-near-future-i-will-have-a-web-page/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -890,9 +934,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2020/twitter/";
           
         },
-      },{id: "post-membuat-tema-girls-frontline-tetapi-untuk-browser-chrome",
+      },{id: "post-making-girls-frontline-themes-but-for-browsers-chrome",
         
-          title: "Membuat tema Girls’ Frontline tetapi untuk browser Chrome",
+          title: "Making Girls Frontline Themes but for Browsers Chrome",
         
         description: "",
         section: "articles",
@@ -901,9 +945,9 @@ ninja.data = [{
             window.location.href = "/test/fr-ca/blog/2020/membuat-tema-girls-frontline-tetapi-untuk-browser-chrome/";
           
         },
-      },{id: "post-saya-kembali-dengan-sebuah-eksperimen-baru",
+      },{id: "post-i-returned-with-a-strange-strange-experiment",
         
-          title: "Saya kembali dengan sebuah eksperimen baru",
+          title: "I returned with a strange strange experiment",
         
         description: "",
         section: "articles",
@@ -954,6 +998,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/test/fr-ca/blog/2018/proyek-komik-telah-selesai-go-for-dream/";
+          
+        },
+      },{id: "post-last-project",
+        
+          title: "Last project",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2018/last-project/";
+          
+        },
+      },{id: "post-welcome-to-new-blog",
+        
+          title: "Welcome to new blog",
+        
+        description: "",
+        section: "articles",
+        handler: () => {
+          
+            window.location.href = "/test/fr-ca/blog/2018/welcome/";
           
         },
       },{id: "post-a-distill-style-blog-post",
