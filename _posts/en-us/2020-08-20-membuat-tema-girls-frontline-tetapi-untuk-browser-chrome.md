@@ -31,7 +31,7 @@ Here I am trying to make 2 versions, actually I made 3 versions. Because one is 
     </div>
 </div>
 
-For the release, I put it on [gingalibadeidara - Hobbyist, Digital Artist | DeviantArt](http://deviantart.com/gingalibadeidara) account and on one of the my github. So, you can download from my [repository.](https://github.com/naturbrilian/Chrome-Themes)
+For the release, I put it on [DeviantArt](http://deviantart.com/gingalibadeidara) account and on one of the my github. So, you can download from my [repository.](https://github.com/naturbrilian/Chrome-Themes)
 
 Oh yeah if you need the Download link for the 404 Squad windows theme: [Girls Frontline 404 Squad Windows 10 Theme by Desonime on DeviantArt](https://www.deviantart.com/desonime/art/Girls-Frontline-404-Squad-Windows-10-Theme-847944163)
 
